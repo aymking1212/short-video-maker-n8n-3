@@ -16,6 +16,7 @@
     "ui:dev": "vite",
     "ui:build": "vite build",
     "ui:preview": "vite preview"
+    "start": "node index.js"
   },
   "bin": {
     "short-video-maker": "dist/index.js"
